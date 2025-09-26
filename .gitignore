@@ -1,0 +1,7 @@
+.venv*/
+__pycache__/
+out/
+*.stl
+*.step
+.idea/
+.DS_Store
